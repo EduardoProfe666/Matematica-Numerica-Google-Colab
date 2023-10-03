@@ -28,13 +28,23 @@ de instalar nada, en cualquier plataforma: Windows, Linux, MacOs, Android y IOs
 > [!NOTE]
 > El directorio se encuentra ordenado por capítulos según el libro de texto de MN
 
+- Tutoriales Generales de `numpy` y `matplotlib`
+  - [Graficar en `matplotlib`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Matplotlib%20Graficar.ipynb)
+  - [Arrays de `numpy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Arrays.ipynb)
+  - [Funciones de `numpy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Funciones.ipynb)
 - Cap 1: Teoría de Errores
 - Cap 2: Raíces de Ecuaciones
 - Cap 3: Sistemas de Ecuaciones Lineales y Matrices
-  - [Método de Jacobi](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/Jacobi.ipynb)
+  - [Método de Jacobi](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap3/Jacobi.ipynb)
 - Cap 4: Aproximación de Funciones
 - Cap 5: Integración Numérica
 - Cap 6: Optimización Numérica
 - Cap 7: Ecuaciones Diferenciales Ordinarias
 
+## Bibliotecas Empleadas:
+- `numpy`~=1.26.0
+- `matplotlib`~=3.8.0
+- `scipy`~=1.11.2
+- `simpy`~=4.0.2
+- `jupyterlab`~=4.0.6
 
