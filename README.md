@@ -49,6 +49,7 @@ Tips:
 - Cap 2: Raíces de Ecuaciones
 - Cap 3: Sistemas de Ecuaciones Lineales y Matrices
   - [Método de Jacobi](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap3/Jacobi.ipynb)
+  - [Método de Gauss-Seidel](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap3/Gauss-Seidel.ipynb)
 - Cap 4: Aproximación de Funciones
 - Cap 5: Integración Numérica
 - Cap 6: Optimización Numérica
