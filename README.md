@@ -5,7 +5,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/EduardoProfe666/Matematica-Numerica-Google-Colab)](https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab/commits/master)
 
 > [!WARNING]
-> El proyecto aún se encuentra en fase de desarrollo por lo que pueden existir errores
+> El proyecto aún se encuentra en fase de desarrollo por lo que pueden existir errores y código incompleto
 
 Proyecto que contiene una serie de jupyter notebooks con documentación sobre 
 los diferentes algoritmos a utilizar en la asignatura, su implementación en python, 
