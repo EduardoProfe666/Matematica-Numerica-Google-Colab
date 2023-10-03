@@ -15,6 +15,25 @@ La forma de uso sugerida es a través de [Google Colaboratory](https://colab.res
 servicio en línea para la ejecución de código python de manera sencilla, rápida y segura, y sin la necesidad 
 de instalar nada, en cualquier plataforma: Windows, Linux, MacOs, Android y IOs
 
+## Directorio de enlaces de los notebooks a Google Colab
+> [!NOTE]
+> El directorio se encuentra ordenado por capítulos según el libro de texto de MN
+
+- Tutoriales Generales de bibliotecas usadas:
+  - [Arrays de `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Arrays.ipynb)
+  - [Funciones de `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Funciones.ipynb)
+  - [Graficar en `SimPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Simpy%20Graficar.ipynb)
+  - [Graficar en `MatPlotLib`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Matplotlib%20Graficar.ipynb)
+- Cap 1: Teoría de Errores
+- Cap 2: Raíces de Ecuaciones
+- Cap 3: Sistemas de Ecuaciones Lineales y Matrices
+  - [Método de Jacobi](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap3/Jacobi.ipynb)
+  - [Método de Gauss-Seidel](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap3/Gauss-Seidel.ipynb)
+- Cap 4: Aproximación de Funciones
+- Cap 5: Integración Numérica
+- Cap 6: Optimización Numérica
+- Cap 7: Ecuaciones Diferenciales Ordinarias
+
 ## Modo de Uso
 ### Acceder a los notebooks en Google Colab
 Para poder acceder a los notebooks en Colab se puede realizar:
@@ -35,25 +54,6 @@ Tips:
 
 #### Versión Móvil (Google Chrome)
 > <img src="assets/entorno-android.gif">
-
-## Directorio de enlaces de los notebooks a Google Colab
-> [!NOTE]
-> El directorio se encuentra ordenado por capítulos según el libro de texto de MN
-
-- Tutoriales Generales de bibliotecas usadas:
-  - [Arrays de `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Arrays.ipynb)
-  - [Funciones de `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Funciones.ipynb)
-  - [Graficar en `SimPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Simpy%20Graficar.ipynb)
-  - [Graficar en `MatPlotLib`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Matplotlib%20Graficar.ipynb)
-- Cap 1: Teoría de Errores
-- Cap 2: Raíces de Ecuaciones
-- Cap 3: Sistemas de Ecuaciones Lineales y Matrices
-  - [Método de Jacobi](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap3/Jacobi.ipynb)
-  - [Método de Gauss-Seidel](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap3/Gauss-Seidel.ipynb)
-- Cap 4: Aproximación de Funciones
-- Cap 5: Integración Numérica
-- Cap 6: Optimización Numérica
-- Cap 7: Ecuaciones Diferenciales Ordinarias
 
 ## Bibliotecas Empleadas:
 - `numpy`~=1.26.0
