@@ -17,21 +17,34 @@ de instalar nada, en cualquier plataforma: Windows, Linux, MacOs, Android y IOs
 
 ## Modo de Uso
 ### Acceder a los notebooks en Google Colab
+Para poder acceder a los notebooks en Colab se puede realizar:
+- Explorando los archivos en el repositorio:
+  > <img src="assets/explorar-archivos.gif" width="100%">
+- Utilizando el directorio de enlaces que se encuentra [a continuación en este Readme](#directorio-de-enlaces-de-los-notebooks-a-google-colab)
 
 ### Entorno de Desarrollo de Google Colab
+Tips:
+- Para la navegación organizada dentro del archivo se puede emplear el índice proporcionado por la página
+- Para poder empezar a ejecutar el notebook se debe *conectar* a un entorno de ejecución de Google Colab
+- Cambiar los datos de entrada en las secciones de inserción de datos para poder obtener los resultados deseados
+- Para ejecutar el nuevo código, ir a la pestaña `Entorno de ejecución` y seleccionar la opción `Reiniciar y ejecutar todo`, aceptando todas las ventanas emergentes
+- Para poder ver los resultados dirigirse a la sección de salida de datos
+
 #### Versión de Escritorio (Google Chrome)
+> <img src="assets/entorno-windows.gif" width="100%">
 
 #### Versión Móvil (Google Chrome)
+> <img src="assets/entorno-android.gif">
 
-
-## Directorio de enlaces de los `notebooks` a Google Colab
+## Directorio de enlaces de los notebooks a Google Colab
 > [!NOTE]
 > El directorio se encuentra ordenado por capítulos según el libro de texto de MN
 
-- Tutoriales Generales de `numpy` y `matplotlib`
-  - [Graficar en `matplotlib`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Matplotlib%20Graficar.ipynb)
-  - [Arrays de `numpy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Arrays.ipynb)
-  - [Funciones de `numpy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Funciones.ipynb)
+- Tutoriales Generales de bibliotecas usadas:
+  - [Arrays de `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Arrays.ipynb)
+  - [Funciones de `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Funciones.ipynb)
+  - [Graficar en `SimPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Simpy%20Graficar.ipynb)
+  - [Graficar en `MatPlotLib`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Matplotlib%20Graficar.ipynb)
 - Cap 1: Teoría de Errores
 - Cap 2: Raíces de Ecuaciones
 - Cap 3: Sistemas de Ecuaciones Lineales y Matrices
