@@ -19,7 +19,7 @@ de instalar nada, en cualquier plataforma: Windows, Linux, MacOs, Android y IOs
 > [!NOTE]
 > El directorio se encuentra ordenado por capítulos según el libro de texto de MN
 
-- Tutoriales Generales de bibliotecas usadas:
+- Documentación de bibliotecas usadas:
   - [Arrays de `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Arrays.ipynb)
   - [Funciones de `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Funciones.ipynb)
   - [Graficar en `SimPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Simpy%20Graficar.ipynb)
