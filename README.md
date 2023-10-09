@@ -13,7 +13,9 @@ y una sección para insertar los datos y obtener los resultados de cada algoritm
 
 La forma de uso sugerida es a través de [Google Colaboratory](https://colab.research.google.com/?hl=es), 
 servicio en línea para la ejecución de código python de manera sencilla, rápida y segura, y sin la necesidad 
-de instalar nada, en cualquier plataforma: Windows, Linux, MacOs, Android y IOs
+de instalar nada, en cualquier plataforma: Windows, Linux, MacOs, Android y IOs.
+
+También se puede emplear de forma local mediante `Jupyter Lab`.
 
 ## Directorio de enlaces de los notebooks a Google Colab
 > [!NOTE]
@@ -24,6 +26,8 @@ de instalar nada, en cualquier plataforma: Windows, Linux, MacOs, Android y IOs
   - [Funciones de `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Funciones.ipynb)
   - [Graficar en `SimPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Simpy%20Graficar.ipynb)
   - [Graficar en `MatPlotLib`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Matplotlib%20Graficar.ipynb)
+- Extras:
+  - [Playground](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/extras/Playground.ipynb)
 - Cap 1: Teoría de Errores
 - Cap 2: Raíces de Ecuaciones
 - Cap 3: Sistemas de Ecuaciones Lineales y Matrices
@@ -39,6 +43,8 @@ de instalar nada, en cualquier plataforma: Windows, Linux, MacOs, Android y IOs
 Para poder acceder a los notebooks en Colab se puede realizar:
 - Explorando los archivos en el repositorio:
   > <img src="assets/explorar-archivos.gif" width="100%">
+
+[//]: # (  > <img src="assets/explorar-archivos.gif" width="100%">)
 - Utilizando el directorio de enlaces que se encuentra [a continuación en este Readme](#directorio-de-enlaces-de-los-notebooks-a-google-colab)
 
 ### Entorno de Desarrollo de Google Colab
@@ -55,10 +61,31 @@ Tips:
 #### Versión Móvil (Google Chrome)
 > <img src="assets/entorno-android.gif">
 
+[//]: # (### Acceder a los notebooks mediante Jupyter Lab)
+
+[//]: # (Para poder acceder a los notebooks en Jupyter Lab se deben realizar los siguientes pasos &#40;`Windows`&#41;:)
+
+[//]: # (- [Descargar e instalar **python 3**]&#40;https://www.python.org/downloads/&#41;)
+
+[//]: # (- [Descargar los notebooks de Github]&#40;https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab/archive/refs/heads/main.zip&#41;)
+
+[//]: # (- Abrir la consola del sistema &#40;`cmd`&#41; en la localización de los notebooks &#40;`shift+click derecho` -> `Abrir ventana de comandos aquí`&#41;)
+
+[//]: # (- Instalar las [dependencias necesarias]&#40;#bibliotecas-empleadas&#41; mediante `pip install` &#40;Ej: `pip install numpy`&#41;)
+
+[//]: # (- Lanzar sistema mediante el comando `jupyter lab`)
+
+[//]: # ()
+[//]: # (### Entorno de Desarrollo de Jupyter Lab)
+
+[//]: # ([Tutorial de Jupyter Lab]&#40;&#41;)
+
+
 ## Bibliotecas Empleadas:
 - `numpy`~=1.26.0
 - `matplotlib`~=3.8.0
 - `scipy`~=1.11.2
 - `simpy`~=4.0.2
 - `jupyterlab`~=4.0.6
+- `pandas`~=2.1.1
 
