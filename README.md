@@ -60,7 +60,7 @@ Para poder acceder a los notebooks en Colab se puede realizar:
   > <img src="assets/explorar-archivos.gif" width="100%">
 
 [//]: # (  > <img src="assets/explorar-archivos.gif" width="100%">)
-- Utilizando el directorio de enlaces que se encuentra [a continuación en este Readme](#directorio-de-enlaces-de-los-notebooks-a-google-colab)
+- Utilizando el directorio de enlaces que se encuentra [en este Readme](#directorio-de-enlaces-de-los-notebooks-a-google-colab)
 
 ### Entorno de Desarrollo de Google Colab
 Tips:
