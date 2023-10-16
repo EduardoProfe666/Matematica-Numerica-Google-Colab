@@ -1,0 +1,44 @@
+name: "💡 Pedir Funcionalidad"
+description: Crea un nuevo pedido de funcionalidad
+title: "💡- <title>"
+labels: [
+  "enhancement"
+]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: "Descripción"
+      description: Introduzca una breve explicación de la funcionalidad
+      placeholder: Explicación clara y breve de la funcionalidad
+    validations:
+      required: true
+  - type: textarea
+    id: basic_example
+    attributes:
+      label: "Ejemplo Básico"
+      description: Indica algunos ejemplos de la funcionalidad
+    validations:
+      required: true
+  - type: textarea
+    id: drawbacks
+    attributes:
+      label: "Impacto"
+      description: Indique el impacto que tendría la implementación de la funcionalidad
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Capturas de pantalla"
+      description: Si es necesario, añade capturas de pantalla 
+      placeholder: Añada imágenes en el formato de Markdown -> ![Descripcion](linkImagen) 
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: "Información extra"
+      description: Si es necesario, indique alguna información extra
+    validations:
+      required: false

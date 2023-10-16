@@ -1,0 +1,65 @@
+name: "🐛 Reporte de Errores"
+description: Crea un nuevo reporte de errores en alguna funcionalidad/clase.
+title: "🐛- <title>"
+labels: [
+  "bug"
+]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Descripción del problema"
+      description: Por favor introduzca una descripción detallada del problema.
+      placeholder: Descripción clara y detallada del problema.
+    validations:
+      required: true
+  - type: textarea
+    id: reprod
+    attributes:
+      label: "Pasos para la reproducción del problema"
+      description: Por favor entre los pasos detallados para reproducir el problema
+      value: |
+        1. Ir a '...'
+        2. Clic en '....'
+        3. Desplazar hasta '....'
+        4. Ver error
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Traceback"
+      description: Por favor copie el traceback del error, es decir, las excepciones que saltan en la consola
+      render: bash
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: "IDE utilizado"
+      description: Seleccione el IDE en que tuvo este error
+      multiple: false
+      options:
+        - Eclipse IDE
+        - NetBeans IDE
+        - IntelliJ IDEA
+        - VS Code
+        - Otro
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Capturas de pantalla"
+      description: Si es necesario, añade capturas de pantalla del problema 
+      placeholder: Añada imágenes en el formato de Markdown -> ![Descripcion](linkImagen) 
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: "Información Extra"
+      description: Si es necesario, añada cualquier otra información que considere necesaria
+    validations:
+      required: false
