@@ -53,7 +53,7 @@ También se puede emplear de forma local mediante `Jupyter Lab`.
 - Documentación de bibliotecas usadas:
   - [Matrices (Arrays) en `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Arrays.ipynb)
   - [Funciones en `NumPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Numpy%20Funciones.ipynb)
-  - [Funciones en Sympy](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Sympy%20Funciones.ipynb)
+  - [Funciones en `SymPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Sympy%20Funciones.ipynb)
   - [Graficar en `SymPy`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Sympy%20Graficar.ipynb)
   - [Graficar en `MatPlotLib`](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/tutoriales-generales/Matplotlib%20Graficar.ipynb)
 
