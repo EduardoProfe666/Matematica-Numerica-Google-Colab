@@ -1,5 +1,5 @@
 name: "🐛 Reporte de Errores"
-description: Crea un nuevo reporte de errores en alguna funcionalidad/clase.
+description: Crea un nuevo reporte de errores en alguna funcionalidad/módulo.
 title: "🐛- <title>"
 labels: [
   "bug"
@@ -17,7 +17,7 @@ body:
     id: reprod
     attributes:
       label: "Pasos para la reproducción del problema"
-      description: Por favor entre los pasos detallados para reproducir el problema
+      description: Por favor introduzca los pasos detallados para reproducir el problema
       value: |
         1. Ir a '...'
         2. Clic en '....'
@@ -30,21 +30,21 @@ body:
     id: logs
     attributes:
       label: "Traceback"
-      description: Por favor copie el traceback del error, es decir, las excepciones que saltan en la consola
+      description: Por favor copie el traceback del error, es decir, las excepciones que saltan en la consola o jupyter notebook
       render: bash
     validations:
       required: true
   - type: dropdown
     id: browsers
     attributes:
-      label: "IDE utilizado"
-      description: Seleccione el IDE en que tuvo este error
-      multiple: false
+      label: "Entorno de desarrollo utilizado"
+      description: Seleccione el entorno de desarrollo en que tuvo este error
+      multiple: true
       options:
-        - Eclipse IDE
-        - NetBeans IDE
-        - IntelliJ IDEA
-        - VS Code
+        - Jupyter Lab
+        - Google Colab
+        - Google Colab local
+        - Terminal de python
         - Otro
     validations:
       required: true
