@@ -1,5 +1,5 @@
 # Proyecto de MN en Google Colaboratory
-[![Languages](https://img.shields.io/github/languages/top/EduardoProfe666/Matematica-Numerica-Google-Colab)](https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab)
+[![Languages](https://img.shields.io/github/languages/top/EduardoProfe666/Matematica-Numerica-Google-Colab?color=orange)](https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://tlo.mit.edu/learn-about-intellectual-property/software-and-open-source-licensing/open-source-licensing) 
 ![Static Badge](https://img.shields.io/badge/status-build-green) 
 [![Last Commit](https://img.shields.io/github/last-commit/EduardoProfe666/Matematica-Numerica-Google-Colab)](https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab/commits/master)
