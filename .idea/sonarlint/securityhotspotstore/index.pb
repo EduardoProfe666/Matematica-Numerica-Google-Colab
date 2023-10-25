@@ -19,3 +19,7 @@ D
 src/cap2/Secantes.py,c\8\c8333cb4fee2317aef48c489bdbaa4f4a60be720
 J
 src/cap2/Newton_Raphson.py,1\f\1fd7bdb4dccae7fe3b6b98447cc88c4cd8b1ad52
+=
+src/cap1/a.py,9\7\971bf759f267a9f51bc030c7afee4ad227a13771
+E
+src/cap5/trapecios.py,f\1\f1af47973dca1cd416ba7ff8691c05003816a843

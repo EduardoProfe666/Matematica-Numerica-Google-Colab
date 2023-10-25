@@ -1,6 +1,6 @@
 name: "💡 Pedir Funcionalidad"
 description: Crea un nuevo pedido de funcionalidad
-title: "💡- <title>"
+title: "💡- <título>"
 labels: [
   "enhancement"
 ]
