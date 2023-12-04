@@ -23,3 +23,8 @@ D
 src/cap1/a.py,9\7\971bf759f267a9f51bc030c7afee4ad227a13771
 E
 src/cap5/trapecios.py,f\1\f1af47973dca1cd416ba7ff8691c05003816a843
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+U
+%.github/ISSUE_TEMPLATE/BUG-REPORT.yml,7\5\75c6f75893042b2b21bb8c5bbaea596be8f40949
