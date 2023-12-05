@@ -112,9 +112,9 @@ incluido en este repositorio
 - Lanzar sistema mediante el comando `jupyter lab`
 
 ### Entorno de Desarrollo de Jupyter Lab
-
-[Tutorial de Jupyter Lab]()
-
+> **Tutorial de Jupyter Lab**
+> 
+> [![Tutorial de Jupyter Lab](https://img.youtube.com/vi/tAJ9U1y8MWo/0.jpg)](https://www.youtube.com/watch?v=tAJ9U1y8MWo)
 
 ## Bibliotecas Empleadas:
 - `numpy`~=1.26.0
