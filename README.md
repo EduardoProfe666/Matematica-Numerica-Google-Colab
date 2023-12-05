@@ -78,7 +78,7 @@ Para poder acceder a los notebooks en Colab se puede realizar:
 - Explorando los archivos en el repositorio:
   > <img src="assets/explorar-archivos.gif" width="100%">
   
-  >[!NOTE]
+  > [!NOTE]
   > Una vez dentro del archivo `.ipynb` deseado, pruebe a cambiar el enlace de `github.com/...` a `githubtocolab.com/...`
 - Utilizando el directorio de enlaces que se encuentra [en este Readme](#directorio-de-enlaces-de-los-notebooks-a-google-colab)
 
