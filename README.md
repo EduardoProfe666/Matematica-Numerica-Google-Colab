@@ -43,6 +43,8 @@ También se puede emplear de forma local mediante `Jupyter Lab`.
   - [Método de Jacobi](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap3/Jacobi.ipynb)
   - [Método de Gauss-Seidel](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap3/Gauss-Seidel.ipynb)
 - **Cap 4: Aproximación de Funciones**
+  - [Método de LaGrange](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap4/Lagrange.ipynb)
+  - [Método de Newton](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap4/Newton.ipynb)
 - **Cap 5: Integración Numérica**
   - [Método de los Trapecios](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap5/Trapecios.ipynb)
   - [Método de Simpson](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap5/Simpson.ipynb)
