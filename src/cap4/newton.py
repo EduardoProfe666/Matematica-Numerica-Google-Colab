@@ -1,15 +1,26 @@
 import pandas as pd
 from numpy import array, zeros
+import numpy as np
 
 
 def diferencias_divididas(xi, yi):
-    n = yi.shape[0]
-    coef = zeros((n, n))
+    n = len(yi)
+    coef = zeros([n, n])
     coef[:, 0] = yi
 
     for j in range(1, n):
         for i in range(n - j):
             coef[i][j] = (coef[i + 1][j - 1] - coef[i][j - 1]) / (xi[i + j] - xi[i])
+            if j == i == 1:
+                print(coef[i + 1][j - 1])
+                print(coef[i][j - 1])
+                print(coef[i + 1][j - 1] - coef[i][j - 1])
+                a = coef[i + 1][j - 1] - coef[i][j - 1]
+                b = xi[i + j] - xi[i]
+                print(xi[i + j])
+                print(xi[i])
+                print(xi[i + j] - xi[i])
+                print(a/b)
 
     return coef
 
@@ -35,8 +46,8 @@ def convertir_resultados(xi, yi, diferencias_divididas):
     return df
 
 
-xi = array([1.15, 1.20, 1.10, 1.25, 1.05, 1.30])
-yi = array([0.93304, 0.91817, 0.95135, 0.90640, 0.97350, 0.89747])
+xi = array([2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5])
+yi = array([3, 14, 34, 64, 107, 165, 240, 336, 451, 591])
 
 diffs = diferencias_divididas(xi, yi)
 print(convertir_resultados(xi, yi, diffs))

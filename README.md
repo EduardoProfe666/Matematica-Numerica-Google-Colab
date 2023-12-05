@@ -49,7 +49,16 @@ También se puede emplear de forma local mediante `Jupyter Lab`.
   - [Método de los Trapecios](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap5/Trapecios.ipynb)
   - [Método de Simpson](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap5/Simpson.ipynb)
 - **Cap 6: Optimización Numérica**
+  - **Sin restricciones**
+    - [Búsqueda Secuencial Uniforme](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap6/sin-restricciones/BSU.ipynb)
+    - [Búsqueda Secuencial Acelerada](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap6/sin-restricciones/BSA.ipynb)
+  - **Con restricciones**
+    - [Bisección](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap6/con-restricciones/Biseccion.ipynb)
+    - [Sección Dorada](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap6/con-restricciones/Seccion-Dorada.ipynb)
 - **Cap 7: Ecuaciones Diferenciales Ordinarias**
+  - [Método de Euler](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap7/Euler.ipynb)
+  - [Método de Runge-Kutta 2 (RK2)](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap7/RK2.ipynb)
+  - [Método de Runge-Kutta 4 (RK4)](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap7/RK4.ipynb)
 - **Extras:**
   - [Playground](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/extras/Playground.ipynb)
   - [Playground para graficar](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/extras/Graficar.ipynb)
@@ -68,8 +77,9 @@ También se puede emplear de forma local mediante `Jupyter Lab`.
 Para poder acceder a los notebooks en Colab se puede realizar:
 - Explorando los archivos en el repositorio:
   > <img src="assets/explorar-archivos.gif" width="100%">
-
-[//]: # (  > <img src="assets/explorar-archivos.gif" width="100%">)
+  
+  >[!NOTE]
+  > Una vez dentro del archivo `.ipynb` deseado, pruebe a cambiar el enlace de `github.com/...` a `githubtocolab.com/...`
 - Utilizando el directorio de enlaces que se encuentra [en este Readme](#directorio-de-enlaces-de-los-notebooks-a-google-colab)
 
 ### Entorno de Desarrollo de Google Colab
@@ -86,31 +96,31 @@ Tips:
 #### Versión Móvil (Google Chrome)
 > <img src="assets/entorno-android.gif">
 
-[//]: # (### Acceder a los notebooks mediante Jupyter Lab)
+### Acceder a los notebooks mediante Jupyter Lab
 
-[//]: # (Para poder acceder a los notebooks en Jupyter Lab se deben realizar los siguientes pasos &#40;`Windows`&#41;:)
+Para poder acceder a los notebooks en `Jupyter Lab` se deben realizar los siguientes pasos (`Windows`):
 
-[//]: # (- [Descargar e instalar **python 3**]&#40;https://www.python.org/downloads/&#41;)
+- [Descargar e instalar **python 3**](https://www.python.org/downloads/)
 
-[//]: # (- [Descargar los notebooks de Github]&#40;https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab/archive/refs/heads/main.zip&#41;)
+- [Descargar los notebooks de Github](https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab/archive/refs/heads/main.zip)
 
-[//]: # (- Abrir la consola del sistema &#40;`cmd`&#41; en la localización de los notebooks &#40;`shift+click derecho` -> `Abrir ventana de comandos aquí`&#41;)
+- Abrir la consola del sistema (`cmd`) en la localización de los notebooks (`shift+click derecho` -> `Abrir ventana de comandos aquí`)
 
-[//]: # (- Instalar las [dependencias necesarias]&#40;#bibliotecas-empleadas&#41; mediante `pip install` &#40;Ej: `pip install numpy`&#41;)
+- Instalar las [dependencias necesarias](#bibliotecas-empleadas) mediante `pip install` (Ej: `pip install numpy`), o usando el archivo `requeriments.txt`
+incluido en este repositorio
 
-[//]: # (- Lanzar sistema mediante el comando `jupyter lab`)
+- Lanzar sistema mediante el comando `jupyter lab`
 
-[//]: # ()
-[//]: # (### Entorno de Desarrollo de Jupyter Lab)
+### Entorno de Desarrollo de Jupyter Lab
 
-[//]: # ([Tutorial de Jupyter Lab]&#40;&#41;)
+[Tutorial de Jupyter Lab]()
 
 
 ## Bibliotecas Empleadas:
 - `numpy`~=1.26.0
 - `matplotlib`~=3.8.0
 - `scipy`~=1.11.2
-- `simpy`~=4.0.2
+- `sympy`~=1.12
 - `jupyterlab`~=4.0.6
 - `pandas`~=2.1.1
 
