@@ -54,7 +54,7 @@ También se puede emplear de forma local mediante `Jupyter Lab`.
     - [Búsqueda Secuencial Acelerada](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap6/sin-restricciones/BSA.ipynb)
   - **Con restricciones**
     - [Bisección](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap6/con-restricciones/Biseccion.ipynb)
-    - [Sección Dorada](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap6/con-restricciones/Seccion-Dorada.ipynb)
+    - [Sección de Oro](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap6/con-restricciones/Seccion-Dorada.ipynb)
 - **Cap 7: Ecuaciones Diferenciales Ordinarias**
   - [Método de Euler](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap7/Euler.ipynb)
   - [Método de Runge-Kutta 2 (RK2)](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap7/RK2.ipynb)
