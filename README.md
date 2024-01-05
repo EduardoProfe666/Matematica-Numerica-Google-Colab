@@ -33,7 +33,7 @@ También se puede emplear de forma local mediante `Jupyter Lab`.
     - [Regla de Descartes](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap2/separacion-raices/Descartes.ipynb)
     - [Fórmula de Lagrange](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap2/separacion-raices/Lagrange.ipynb)
   - **Resolución de ecuaciones algebraicas**
-    - [Método de Bisección](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap2/resolucion-ecuaciones-algebraicas/Biseccion.ipynb")
+    - [Método de Bisección](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap2/resolucion-ecuaciones-algebraicas/Biseccion.ipynb)
     - [Método de Regula Falsi (Falsa Posición)](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap2/resolucion-ecuaciones-algebraicas/Regula_falsi.ipynb)
     - [Método de Newton-Raphson](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap2/resolucion-ecuaciones-algebraicas/Newton_Rhapson.ipynb)
     - [Método de Secantes](https://colab.research.google.com/github/EduardoProfe666/Matematica-Numerica-Google-Colab/blob/main/notebooks/cap2/resolucion-ecuaciones-algebraicas/Secantes.ipynb)
